@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Danie-cyber222
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning JavaScript and python
-- 💞️ I’m looking to collaborate on creating a game in the metaverse
+- 🌱 I’m currently learning Laravel And PHP
 - 📫 you can reach me with my phone number on Whatsapp: 09029654497
 
 <!---
